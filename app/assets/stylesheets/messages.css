@@ -47,13 +47,16 @@
   padding: 20px 0 40px;
 }
 
+.room-name {
+  padding: 20px 0 40px;
+}
+
 .room-name a{
   color: white;
   text-decoration: none;
 }
 
 .chat {
-@ -59,104 +29,16 @@
   height: 100px;
   background-color: #ffffff;
   padding: 0 40px;
